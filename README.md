@@ -22,13 +22,59 @@ a) inclusão do PMC desenvolvido pelo grupo <br>
 
 
 ### 4.Personas e Histórias de usuário<br>
-<img src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" Personas src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" width="500" height="500" /> <br>
-a) inclusão dos Persons desenvolvidos pelo grupo<br>
-<br>
-<img src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" UserStory src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" width="500" height="300" /> <br>
-b) inclusão das Histórias de usuário desenvolvidas pelo grupo
+Cauã Santiago:
+
+18 anos
+Masculino 
+Estudante
+
+Perfil: 
+
+Cauã é uma pessoa ansiosa e impaciente, tenta fazer muitas coisas ao mesmo tempo, como os
+deveres e afazeres do Ifes e de casa, mais os seus trabalhos pessoais quando pode, por isso está o
+sempre casando.
+Por passar maior parte de seu tempo no Ifes sempre necessita de um café para repor as energias,
+porém o processo de realização do atendimento da cantina, supera o seu tempo de intervalo.
+
+Necessidades:
+
+Um Sistema com menu.
+
+Um sistema em que eu posso ver as principais comidas antes de eu acessar o cardápio no menu.
+
+Um sistema em eu que possa ver o cardápio.
+
+Um sistema em que possa acessar e depositar o meu pré-pago.
 <br>
 
+Aghata Oliveira da Silva:
+
+24 anos
+Atendente da Cantina Do Ifes Campus Serra
+Sexo Feminino
+
+Perfil:
+
+Aghata tem uma rotina de trabalho estressante, ela não gosta de interagir muito com pessoas, isso se
+deve porque sua irmão esta passando pela fazer adolescente dramática, trabalhando no Ifes onde
+grande parte de pessoas são adolescentes, ela só gostaria de trabalhar sem ter muito contato com
+adolescentes
+<br>
+
+Gileard Sousa Pinto:
+
+30 anos
+Cozinheiro da Cantina Do Ifes Campus Serra
+Sexo masculino
+
+Perfil:
+
+Gileard gosta das coisas bem organizadas, seu passatempo favorito é arrumar sua casa e cozinhar
+coisas novas. Em seu trabalho é o melhor, junto com a sua equipe sempre deixa o cardápio pronto
+paras as primeiras horas de pico, porém, nem sempre de um intervalo para outro é possível repor
+todo o cardápio e nem de avisar os clientes, Gileard precisa de um sistema que seja possível
+informar seus clientes do cardápio.
+<br>
 
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
