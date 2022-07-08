@@ -31,7 +31,6 @@ b) inclusão das Histórias de usuário desenvolvidas pelo grupo
 
 
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
 
 ![imagem prototipo](https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/prototipo.png)
 
@@ -54,7 +53,7 @@ Neste ponto a codificação não e necessária, somente as ideias de telas devem
        (veja o exemplo abaixo antes de criar a tabela para seu trabalho)
     C) Após criada esta tabela não deve ser modificada, pois será comparada com os resultados finais na conclusão do trabalho
     
-![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/TabelaEmpresaDevCom_sample.xlsx?raw=true "Tabela - Empresa Devcom")
+
 
 
  
