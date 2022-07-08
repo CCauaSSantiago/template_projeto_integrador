@@ -18,7 +18,7 @@ Cauã Santiago:ccauassantiago77@gmail.com<br>
 a) inclusão do PMC desenvolvido pelo grupo <br>
 
 
-![pmc](https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/pmc.png)
+![Imagem do PMC](https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/pmc.png)
 
 
 ### 4.Personas e Histórias de usuário<br>
