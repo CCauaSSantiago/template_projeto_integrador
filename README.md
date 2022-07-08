@@ -133,9 +133,7 @@ informar seus clientes do cardápio.
 
 
 ### 9	MODELO LÓGICO<br>
-        a) inclusão do esquema lógico do banco de dados
-        b) verificação de correspondencia com o modelo conceitual 
-        (não serão aceitos modelos que não estejam em conformidade)
+    ![](https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/logico%20.png)
 
 ### 10	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
