@@ -133,7 +133,7 @@ informar seus clientes do cardápio.
 
 
 ### 9	MODELO LÓGICO<br>
-    ![](https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/LogicoV2100722.png)
+![](https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/LogicoV2100722.png)
 
 ### 10	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
