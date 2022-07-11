@@ -115,7 +115,7 @@ informar seus clientes do cardápio.
         Criar o esquema de forma a garantir a redução de informação redundante, possibilidade de valores null, 
         e tuplas falsas (Aplicar os conceitos de normalização abordados).   
         
-![](https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/Cantina080722.png)
+![](https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/conceitualV2100722.png)
     
 #### 7.1 Descrição dos dados 
     [objeto]: [descrição do objeto]
@@ -133,7 +133,7 @@ informar seus clientes do cardápio.
 
 
 ### 9	MODELO LÓGICO<br>
-    ![](https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/logico%20.png)
+    ![](https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/LogicoV2100722.png)
 
 ### 10	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
