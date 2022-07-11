@@ -10,7 +10,7 @@ Cauã Santiago:ccauassantiago77@gmail.com<br>
 
 ### 2.MINIMUNDO<br>
 
-> Uma empresa deseja um sistema em que possa cadastrar o cliente e realizar pedidos referentes a seus produtos. Do cliente a empresa necessita dos seguintes dados: código, usuário, nome, senha, o valor depositado e seu endereço e e-mail. Um cliente pode estar relacionado a vários pedidos mas um pedido deve estar relacionado apenas a um cliente. Do pedido devemos armazenar: código, data_hora, observação. Cada pedido contém um ou vários produtos, e cada produto esta contido em vários pedidos ou em nenhum. O produto deve conter: código, preço, nome. Nesse sistema é necessário armazenar a quantidade dos produtos.
+> Uma empresa deseja um sistema em que possa cadastrar o cliente e realizar pedidos referentes a seus produtos. Do cliente a empresa necessita dos seguintes dados: código, usuário, nome, senha, endereço, o valor depositado e seu endereço de e-mail. Um cliente pode estar relacionado a nenhum ou vários pedidos mas um pedido deve estar relacionado a no minimo um e apenas a um cliente. Do pedido devemos armazenar: código, data_hora, observação. Cada pedido contém um ou vários produtos, e cada produto esta contido em vários pedidos ou em nenhum. O produto deve conter: código, preço, nome, tipo_produto, é necessário armazenar a quantidade dos produtos.
  
  
 ### 3.PMC<br>
