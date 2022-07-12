@@ -137,6 +137,7 @@ Relatório da página de pré-pago que informa quais são as opções de depósi
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
         (criação de tabelas, alterações, etc..) 
         
+        (https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/fisico)
        
 ### 11	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
         a) inclusão das instruções de inserção dos dados nas tabelas criadas pelo script de modelo físico
