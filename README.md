@@ -129,8 +129,6 @@ informar seus clientes do cardápio.
         b) Protótipo vs Modelo conceitual
         (não serão aceitos modelos que não estejam em conformidade)
         c) Backlog (caso solicitado)
-        
-
 
 ### 9	MODELO LÓGICO<br>
 ![](https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/LogicoV2100722.png)
