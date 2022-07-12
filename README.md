@@ -85,12 +85,11 @@ informar seus clientes do cardápio.
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
     b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto!
     
-> A Empresa DevCom precisa inicialmente dos seguintes relatórios:
-* Relatório que informe quais são os gerentes de cada departamento incluindo as seguintes informações: número do departamento,  nome do departamento, e nome do gerente.
-* Relatório de empregados por projeto incluindo as seguintes informações: número do projeto, nome do projeto, rg do empregado, nome do empregado e quantidade de horas de trabalho do empregado alocadas ao projeto.
-* Relatório de empregados com dependentes incluindo as seguintes informações: rg do empregado, nome do empregado, nome do dependente, tipo de relação, data de nascimento do dependente e sexo do dependente.
-* Relatório com a quantidade de empregados por cada departamento incluindo as seguintes informações: nome do departamento, supervisor e quantidade de empregados alocados no departamento.
-* Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.
+Relatório da página de login que informa quais são os clientes ao logarem incluindo as seguintes informações: Matrícula e senha.
+Relatório da página de menu incluindo as seguintes informações: Cardápio, depositar pré—pago.
+Relatório da página de Cardápio que informa quais são os tipos de lanches e os lanches de cada categoria.
+Relatório da página de pedido que informa informações sobre o pedido feito e sobre o pré-pago incluindo as seguintes informações: comanda, observação, valor total, pré-pago.
+Relatório da página de pré-pago que informa quais são as opções de depósito incluindo os bancos virtuais e o valor depositado.
  
 
 ### 6 TABELA DE DADOS DO SISTEMA:
