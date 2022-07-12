@@ -1,0 +1,109 @@
+/* Lógico_1: */
+
+CREATE TABLE CLIENTE (
+    codigo INT PRIMARY KEY,
+    nome VARCHAR(100),
+    valor_depositado INT,
+    senha INT,
+    usuario VARCHAR(100),
+    FK_e_mail_e_mail_PK VARCHAR(100)
+);
+
+CREATE TABLE PEDIDO (
+    codigo INT PRIMARY KEY,
+    data_hora INT,
+    observacao VARCHAR(100),
+    FK_CLIENTE_codigo INT
+);
+
+CREATE TABLE PRODUTO (
+    codigo INT PRIMARY KEY,
+    preco INT,
+    tipo_produto VARCHAR(100),
+    nome VARCHAR(100)
+);
+
+CREATE TABLE ENDERECO (
+    codigo INT PRIMARY KEY,
+    cep INT,
+    numero INT,
+    complemento VARCHAR(100),
+    FK_CLIENTE_codigo INT,
+    FK_bairro_codigo INT
+);
+
+CREATE TABLE TIPO_LOGRADORO (
+    codigo INT PRIMARY KEY,
+    FK_ENDERECO_codigo INT
+);
+
+CREATE TABLE bairro (
+    codigo INT PRIMARY KEY,
+    fk_municipio_codigo INT
+);
+
+CREATE TABLE municipio (
+    codigo INT PRIMARY KEY,
+    fk_estado_codigo INT
+);
+
+CREATE TABLE estado (
+    codigo INT PRIMARY KEY
+);
+
+CREATE TABLE e_mail (
+    e_mail_PK VARCHAR(100) NOT NULL PRIMARY KEY,
+    e_mail VARCHAR(100)
+);
+
+CREATE TABLE Contem (
+    fk_PRODUTO_codigo INT,
+    fk_PEDIDO_codigo INT,
+    codigo INT PRIMARY KEY,
+    quantidade VARCHAR(100)
+);
+ 
+ALTER TABLE CLIENTE ADD CONSTRAINT FK_CLIENTE_2
+    FOREIGN KEY (FK_e_mail_e_mail_PK)
+    REFERENCES e_mail (e_mail_PK)
+    ON DELETE NO ACTION;
+ 
+ALTER TABLE PEDIDO ADD CONSTRAINT FK_PEDIDO_2
+    FOREIGN KEY (FK_CLIENTE_codigo)
+    REFERENCES CLIENTE (codigo)
+    ON DELETE CASCADE;
+ 
+ALTER TABLE ENDERECO ADD CONSTRAINT FK_ENDERECO_2
+    FOREIGN KEY (FK_CLIENTE_codigo)
+    REFERENCES CLIENTE (codigo)
+    ON DELETE RESTRICT;
+ 
+ALTER TABLE ENDERECO ADD CONSTRAINT FK_ENDERECO_3
+    FOREIGN KEY (FK_bairro_codigo)
+    REFERENCES bairro (codigo)
+    ON DELETE RESTRICT;
+ 
+ALTER TABLE TIPO_LOGRADORO ADD CONSTRAINT FK_TIPO_LOGRADORO_2
+    FOREIGN KEY (FK_ENDERECO_codigo)
+    REFERENCES ENDERECO (codigo)
+    ON DELETE RESTRICT;
+ 
+ALTER TABLE bairro ADD CONSTRAINT FK_bairro_2
+    FOREIGN KEY (fk_municipio_codigo)
+    REFERENCES municipio (codigo)
+    ON DELETE RESTRICT;
+ 
+ALTER TABLE municipio ADD CONSTRAINT FK_municipio_2
+    FOREIGN KEY (fk_estado_codigo)
+    REFERENCES estado (codigo)
+    ON DELETE RESTRICT;
+ 
+ALTER TABLE Contem ADD CONSTRAINT FK_Contem_2
+    FOREIGN KEY (fk_PRODUTO_codigo)
+    REFERENCES PRODUTO (codigo)
+    ON DELETE RESTRICT;
+ 
+ALTER TABLE Contem ADD CONSTRAINT FK_Contem_3
+    FOREIGN KEY (fk_PEDIDO_codigo)
+    REFERENCES PEDIDO (codigo)
+    ON DELETE SET NULL;
