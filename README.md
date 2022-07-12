@@ -166,8 +166,6 @@ informar seus clientes do cardápio.
  <br>
  
  
- 
- 
  ### 13 Gráficos, relatórios, integração com Linguagem de programação e outras solicitações.<br>
      OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
  #### 13.1	Integração com Linguagem de programação; <br>
