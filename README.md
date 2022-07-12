@@ -99,7 +99,7 @@ Relatório da página de pré-pago que informa quais são as opções de depósi
     C) Após criada esta tabela não deve ser modificada, pois será comparada com os resultados finais na conclusão do trabalho
     
 
-![](https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/conceitual.pdf)
+(https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/conceitual.pdf)
 
  
  
@@ -131,6 +131,7 @@ Relatório da página de pré-pago que informa quais são as opções de depósi
 
 ### 9	MODELO LÓGICO<br>
 ![](https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/LogicoV2100722.png)
+(https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/logico.pdf)
 
 ### 10	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
