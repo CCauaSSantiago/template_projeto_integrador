@@ -79,7 +79,7 @@ informar seus clientes do cardápio.
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
 ![imagem prototipo](https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/prototipo.png)
-![img](https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/Your%20First%20Project.pdf)
+![img](https://github.com/CCauaSSantiago/template_projeto_integrador/blob/main/arquivos/Your First Project.png)
 
 #### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
