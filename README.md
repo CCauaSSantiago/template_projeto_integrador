@@ -85,13 +85,24 @@ informar seus clientes do cardápio.
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
     b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto!
     
-Relatório da página de login que informa quais são os clientes ao logarem incluindo as seguintes informações: Matrícula e senha.
-Relatório da página de menu incluindo as seguintes informações: Cardápio, depositar pré—pago.
-Relatório da página de Cardápio que informa quais são os tipos de lanches e os lanches de cada categoria.
-Relatório da página de pedido que informa informações sobre o pedido feito e sobre o pré-pago incluindo as seguintes informações: comanda, observação, valor total, pré-pago.
-Relatório da página de pré-pago que informa quais são as opções de depósito incluindo os bancos virtuais e o valor depositado.
- 
+Relatório da página de login que informa quais são os clientes ao logarem incluindo as seguintes informações: 
+Matrícula e senha.
 
+Relatório da página de menu incluindo as seguintes informações: 
+
+Cardápio, depositar pré—pago.
+
+Relatório da página de Cardápio que informa quais são os tipos de lanches e os lanches de cada categoria.
+
+Relatório da página de pedido que informa informações sobre o pedido feito e sobre o pré-pago incluindo as seguintes informações: 
+comanda, observação, valor total, pré-pago.
+
+Relatório da página de pré-pago que informa quais são as opções de depósito incluindo os bancos virtuais e o valor depositado.
+
+Relatório da página do menu do editor que expoem itens a serem manipulados
+
+Relatório da página de comandas que informas as comandas dos clientes as comandas das finalizados
+ 
 ### 6 TABELA DE DADOS DO SISTEMA:
     A) Esta tabela deve conter **todos os atributos do sistema** e um mínimo de 10 linhas/registros de dados.
     B) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
